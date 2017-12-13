@@ -19,3 +19,9 @@ function capitalize(s){
       }
       return [odd, even];  
  } 
+
+ //var even
+//  if index dividdd by 2 and the remainder (!) = 0, keep counting variable index.uppercase. this is collecting all the even numbers becasue even numbers can alwasy be divided by 2. So alternate the variable (even number) to uppercase
+
+ //var odd
+//this is doing the same thing but lowercasing instead of uppercasing to alternate [i] between caps and lower case
